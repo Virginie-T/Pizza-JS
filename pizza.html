@@ -4,7 +4,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="js/jquery-1.11.2.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="js/scripts2.js"></script>
     <title>Pizza</title>
   </head>
   <body>
@@ -12,12 +12,23 @@
    
     <h1>Welcome to the smallest Pizza Company</h1>
       
-      <h3>Choose which pizza you would like :</h3>
-    
+      <h3>Choose the pizza you would like :</h3>
+
+      <form id="pizza">
+        
+        <select class="pizza">
+          <option value="Cheese">Cheese</option>
+          <option value="Pepperoni">Pepperoni</option>
+        </select>
+
+        <button type="submit" class="btn btn-success">Submit</button>
+
+      </form>
+<!--     
       <div class="pizza">
-        <h4 class='col-md-6'>Cheese</h4>
-        <h4 class='col-md-6'>Pepperoni</h4>
-      </div>
+        <h4 class='cheese'></h4>
+        <h4 class='pepperoni'></h4>
+      </div> -->
 
       <div id="result">
         

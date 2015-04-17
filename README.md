@@ -1,11 +1,11 @@
-<h1> Address Book </h1>
+<h1> Pizza Website </h1>
 
 <b>Description</b>
 
-Address app let's the user to enter their name, last name and multiple addresses. Allows the user click on the listed name and show addresses.
+Website for a pizza company where a user can go to order a pizza. The user can choose between cheese and pepperoni and the site will tell him the price.
 
 
-April 13th, 2015 | Erica Cha & Virginie Trubiano
+April 17th, 2015 | By Virginie Trubiano
 
 <b>Technologies</b>
 
@@ -22,7 +22,7 @@ CSS<br>
 
 Clone this repository.
 Open 'address-book.html' in a web browser (file is in project root directory). <br><br>
-Copyright © 2015 Erica Cha & Virginie Trubiano
+Copyright © 2015 Virginie Trubiano
 
 <b>License</b>
 

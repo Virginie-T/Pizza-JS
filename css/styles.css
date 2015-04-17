@@ -1,14 +1,14 @@
 /*this will show the first name, last name and address at the right side of the page.*/
 
-#task_page {
+#result {
     display: none;
 }
 
-.list {
+h4 {
     cursor: pointer;
     color: #0088cc;
 }
-.list: hover {
+h4: hover {
     text-decoration: underline;
 }
 

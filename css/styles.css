@@ -1,0 +1,17 @@
+/*this will show the first name, last name and address at the right side of the page.*/
+
+#task_page {
+    display: none;
+}
+
+.list {
+    cursor: pointer;
+    color: #0088cc;
+}
+.list: hover {
+    text-decoration: underline;
+}
+
+/*#list_page {
+    float: left;
+}*/

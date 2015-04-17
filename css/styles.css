@@ -2,6 +2,7 @@
 
 #result {
     display: none;
+    margin-top: 55px;
 }
 
 h4 {
@@ -12,3 +13,23 @@ h4: hover {
     text-decoration: underline;
 }
 
+body {
+	background-image: url("http://i.kinja-img.com/gawker-media/image/upload/s--DA2FEQBi--/1115982886303511330.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.bg {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
+	text-align: center;
+	padding: 5%;
+	width: 70%;
+	margin-top: 15%;
+}
+
+p {
+	font-style: italic;
+	font-weight: bold;
+}
